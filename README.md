@@ -8,8 +8,8 @@ This repository contains all artifacts produced during the conception and develo
 
 | Name | E-mail | Program |
 |------|---------|---------|
-| Alex Ferreira de Almeida | almeida_alex@discente.ufg.br | PPGCC/UFG |
-| Paulo Augusto | goncalves2@discente.ufg.br | PPGCC/UFG |
+| Alex Ferreira de Almeida | almeida_alex@discente.ufg.br | PPGCC-UFG |
+| Paulo Augusto de Oliveira Gonçalves | goncalves2@discente.ufg.br | PPGCC-UFG |
 
 **Advisor:** Prof. Dr. Valdemar Vicente Graciano Neto
 
