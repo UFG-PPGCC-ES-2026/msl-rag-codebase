@@ -2,15 +2,13 @@
 
 - Acesse https://dl.acm.org/, logue e selecione "Advanced Search".
 
-- Cole as strings nos respectivos campos de busca:
+- Cole a string no campo "Edit Query":
 ```
-Title:("Retrieval-Augmented Generation" OR "RAG") AND
-Abstract:("source code" OR "codebase" OR "code repository") AND
-Abstract:("LLM" OR "Large Language Model" OR "GenAI" OR "Generative AI")
+(Title:"Retrieval-Augmented Generation" OR Title:"RAG" OR Abstract:"Retrieval-Augmented Generation" OR Abstract:"RAG") AND 
+(Title:"source code" OR Title:"codebase" OR Title:"code repository" OR Abstract:"source code" OR Abstract:"codebase" OR Abstract:"code repository") AND 
+(Title:"LLM" OR Title:"Large Language Model" OR Title:"GenAI" OR Title:"Generative AI" OR Abstract:"LLM" OR Abstract:"Large Language Model" OR Abstract:"GenAI" OR Abstract:"Generative AI")
 ```
 
-- Filtre pelo ano de publicação: 2020-2026.
+- Filtre pelo período de publicação: 01/2020 - 04/2026.
 
-- Filtre por tipo: conference papers + journal articles + early access articles (excluir patentes, livros, etc.).
-
-- Exporte os resultados em BibTeX ou RIS.
+- Exporte os resultados em BibTeX (.bib).
