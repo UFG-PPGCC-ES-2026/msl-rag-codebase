@@ -1,3 +1,14 @@
+# V4.1 - 17/05/26
+- Critérios de exclusão reorganizados para preservar rastreabilidade 
+  das decisões de triagem já registradas:
+  - CE1: Adicionado critério de exclusão por não satisfação de CI1 
+    (incorpora os antigos CE1 e CE2 do protocolo V3, removidos na V4).
+  - CE2 a CE6: Renumeração dos critérios anteriores (CE3→CE2, CE4→CE3, 
+    CE5→CE4, antigo CE5→CE5, antigo CE1-período→CE6).
+  - Observação: decisões de triagem registradas anteriormente com 
+    referência aos critérios do protocolo V3 devem ser interpretadas 
+    conforme a correspondência acima.
+
 # V4 - 17/05/26
 - Protocolo revisado a pedido do professor:
   - Adicionada seção PICOC com observações sobre Outcome e Contexto não comporem a string de busca.
