@@ -53,9 +53,8 @@ This repository contains all artifacts produced during the conception and develo
 │   ├── protocol.docx         # Research protocol (versioned via Git)
 │   ├── protocol.pdf          # PDF export of the current protocol version
 │   ├── CHANGELOG.md          # Protocol decision log
-│   └── references/
-│       ├── guidelines/       # Methodological guidelines (Kitchenham, Petersen)
-│       └── examples/         # Example studies used as reference
+│   └── examples/             # Example studies used as reference
+│   └── references/           # Methodological references
 │
 └── sources/                  # Data collected from search sources
     ├── search_strings.md     # Documented search strings per source
