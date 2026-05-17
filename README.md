@@ -59,14 +59,8 @@ This repository contains all artifacts produced during the conception and develo
 └── sources/                  # Data collected from search sources
     ├── search_strings.md     # Documented search strings per source
     ├── ieee/                 # IEEE Xplore results
-    │   ├── raw/              # Raw exports (.bib, .csv) and search screenshots
-    │   └── screened/         # Articles after title/abstract screening
     ├── scopus/               # Scopus results
-    │   ├── raw/
-    │   └── screened/
     └── acm/                  # ACM Digital Library results
-        ├── raw/
-        └── screened/
 ```
 
 ## License
