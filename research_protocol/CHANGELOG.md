@@ -1,3 +1,6 @@
+# V4.2 - 17/05/26
+- Adicionado o fluxograma PRISMA.
+
 # V4.1 - 17/05/26
 - Critérios de exclusão reorganizados para preservar rastreabilidade 
   das decisões de triagem já registradas:
