@@ -1,3 +1,7 @@
+# V5 - 24/05/26
+- Revisada Introdução. 
+- Ajustada autoria (desistência do colega de trabalho).
+
 # V4.2 - 17/05/26
 - Adicionado o fluxograma PRISMA.
 
