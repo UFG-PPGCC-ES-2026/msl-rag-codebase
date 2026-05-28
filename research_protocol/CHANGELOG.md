@@ -1,3 +1,7 @@
+# V5.2 - 27/05/26
+- Adicionada referência e citação para justificar escolha das bases de busca.
+- Padronizado para utilizar o "et al." nas referências apenas se a quantidade de autores for superior a três.
+
 # V5.1 - 24/05/26
 - Ajustado CE7 para não especificar o mês final.
   - Definido seção 7 para documentar a data exata da execução de cada pesquisa.
