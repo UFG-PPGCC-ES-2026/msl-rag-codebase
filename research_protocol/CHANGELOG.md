@@ -1,3 +1,6 @@
+# V6.0 - 27/05/26
+- Adicionada seção "8. AMEAÇAS À VALIDADE".
+
 # V5.2 - 27/05/26
 - Adicionada referência e citação para justificar escolha das bases de busca.
 - Padronizado para utilizar o "et al." nas referências apenas se a quantidade de autores for superior a três.
